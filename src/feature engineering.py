@@ -1,4 +1,8 @@
 ### --- Phase 3: Feature Engineering - Part 1 --- ###
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 Inter_sales_rp_feature = Inter_sales_rp.copy()
 
