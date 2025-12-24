@@ -1,4 +1,7 @@
 ### --- Data Visualization --- ###
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Set the visual style
 sns.set_theme(style="whitegrid")
