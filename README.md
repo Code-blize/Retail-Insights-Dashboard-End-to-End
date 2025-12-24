@@ -62,7 +62,7 @@ To empower the business with foresight, I deployed a **Random Forest Regressor**
 
 1. **Clone the Repo:**
 ```bash
-git clone https://github.com/your-username/amazon-sales-pipeline.git
+git clone https://github.com/Code-blize/Retail-Insights-Dashboard-End-to-End.git
 
 ```
 
